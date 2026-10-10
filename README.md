@@ -16,7 +16,7 @@ What I did
 
 2.Built a calendar table
 - Generated a continuous date list from the earliest to the latest project
-  date
+  date using excel
 - Added Year,Month number,Month name,Quarter,Year-Month,Weekday
   number and name,Financial Month(April = FM1) and Financial Quarter
 - Related it to the project data in Power Pivot through a date-only column
@@ -69,4 +69,4 @@ Problems I ran into and fixed
   I used one field consistently
 
 Tools
-Power Bi Power Query, Power Pivot, DAX,SQL
+Excel(Power Query,Power Pivot,DAX),Tableau,SQL
